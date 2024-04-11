@@ -14,8 +14,6 @@ export default {
 <template>
   <AppHeader></AppHeader>
   <ContentHere></ContentHere>
-  <main>
-  </main>
   <AppServices></AppServices>
 </template>
 

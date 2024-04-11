@@ -32,7 +32,6 @@ export default {
 
 
 header {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   display: flex;
   justify-content: space-around;
   align-items: center;
