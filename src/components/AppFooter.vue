@@ -6,7 +6,7 @@ export default {
 
 <template>
 <footer>
-  <div class="footer-container">
+  <div class="footer-contain">
     <div class="footer-left">
       <a href="#" class="signup-btn">SIGN-UP NOW!</a>
     </div>
@@ -31,7 +31,7 @@ footer {
   padding: 20px;
 }
 
-.footer-container {
+.footer-contain {
   height: 70px;
   display: flex;
   justify-content: space-between;
