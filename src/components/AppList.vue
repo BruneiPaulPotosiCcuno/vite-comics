@@ -68,7 +68,7 @@ export default {
 .nav-container {
   background-image: url('../assets/img/footer-bg.jpg');
   color: #fff;
-  height: 350px;
+  height: 410px;
 }
 
 nav {
