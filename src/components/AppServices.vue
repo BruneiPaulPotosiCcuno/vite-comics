@@ -54,7 +54,7 @@ nav ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
+  gap: 50px;
 }
 
 nav li {
@@ -76,6 +76,6 @@ nav img {
 }
 
 nav span {
-  font-size: 14px;
+  font-size: 16px;
 }
 </style>

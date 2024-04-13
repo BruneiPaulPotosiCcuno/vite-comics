@@ -32,12 +32,13 @@ export default {
 
 
 header {
+  position: fixed;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 20px;
-  background-color: #ece1e1;
-  color: #fff;
+  background-color: #ffffff;
   font-size: 17px;
 }
 
